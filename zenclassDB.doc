@@ -57,6 +57,6 @@ INSERT INTO Task_Collection (Task_ID, Task_Name, Task_completed, Task_sumbission
  INSERT INTO  Mentor_collection (Mentor_Id, FirstName, LastName, Email, PhoneNumber)
     values(1, 'Arun', 'prakash', 'arun@gmail.com', 999888),
     values(2, 'Bala', 'murgan', 'bala@gmail.com',999666),
-    values(3, 'Kumar', 'raj', 'kumar@gmail.com',999333),
+    values(3, 'Kumar', 'lavish', 'kumar@gmail.com',999333),
     values(4, 'Aditya', 'manoj', 'Aditya@gmail.com',222333),
     values(5, 'Raghav', 'kumar', 'Raghav@gmail.com',222444),
